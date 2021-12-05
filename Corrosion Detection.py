@@ -1,6 +1,5 @@
 #Hello
-#This code is used to identify corroded area in an image
-#group members: Song Zhao, Tianyu Zhi
+#This code is used to identify corroded area in an image.
 
 import numpy as np
 import cv2
